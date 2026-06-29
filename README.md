@@ -28,7 +28,11 @@ Goals:
 * The Borg use only **one generic resource type**, which is used for all purposes.
 
 ---
+# General
 
+The Borg always acts last in the turn order
+
+---
 # Economy
 
 The Borg cannot store resources.
@@ -73,7 +77,7 @@ Once complete:
 
 Enemy players may destroy Borg resource nodes through bombardment or invasion, but may never reclaim the planet itself.
 
-Destroyed nodes deny the Borg resources until they are rebuilt through assimilation.
+Destroyed nodes deny the Borg resources until they are rebuilt.
 
 ---
 
@@ -124,6 +128,10 @@ Technology assimilation is completed by allocating resources over multiple turns
 
 Once enough resources equal to the technology's research cost have been invested, the Borg permanently gain that technology.
 
+**Borg Technology Cards**
+
+Enemy players continue to receive Borg technology cards after defeating a Cube as normal.
+
 ---
 
 # Adaptation
@@ -146,6 +154,38 @@ Adaptation progress is retained between turns.
 The Borg do not pursue Ascendancy.
 
 Instead, the Borg win immediately upon successfully assimilating the starting home systems of every opposing civilization.
+
+---
+
+# Planetary Encounters
+
+The Borg use the normal encounter deck with the following exceptions:
+
+**Diplomatic Encounters**
+
+If an encounter requires:
+
+* diplomacy
+* negotiation
+* trade
+* voluntary cooperation
+* cultural exchange
+
+the Borg automatically fail any required tests and resolve the failure effects.
+
+**Illogical Effects**
+
+If an encounter effect cannot logically affect the Borg:
+
+* ignore only that effect
+* leave the encounter card on the planet
+
+The encounter may later be resolved normally by another civilization.
+
+**Destroy Ship Effects**
+
+Any encounter effect that would destroy a ship instead deals 1 damage to a Cube.
+Any effect that would destroy all ships in system or a whole fleet instead deals 9 damage to a Cube.
 
 ---
 
