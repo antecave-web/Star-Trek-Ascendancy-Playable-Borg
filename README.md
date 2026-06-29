@@ -8,6 +8,14 @@ Unlike other civilizations, the Borg do not rely on rapid expansion or large fle
 
 The Borg should feel like an ever-present strategic threat that can be delayed, but never permanently stopped.
 
+Goals:
+
+* Preserve the core Ascendancy rules wherever possible.
+* Make the Borg feel relentless rather than explosive.
+* Replace bookkeeping with long-term strategic commitments.
+* Encourage interaction through technology theft instead of internal research.
+* Reward containment rather than reversal.
+
 ---
 
 # Starting Position
