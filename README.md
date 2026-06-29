@@ -168,7 +168,7 @@ Enemy players continue to receive Borg technology cards after defeating a Cube a
 
 The Borg may also begin adapting against enemy technologies.
 
-After participating in a battle, the Borg may allocate resources toward adapting to technologies that affected the outcome of that battle (I.e. No adapting to ship-exclusive technologies during invasions and vice-versa). No adaptation may be performed on turns in which the Borg did not battle.
+After participating in a battle, the Borg may allocate resources toward adapting to technologies that affected the outcome of that battle (I.e. No adapting to ship-exclusive technologies during invasions and vice-versa). No adaptation may be performed on turns in which the Borg did not battle, the exception being map-based effects, like minefields, etc.
 
 For each completed enemy technology, the Borg may invest resources into adaptation.
 
