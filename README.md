@@ -53,7 +53,7 @@ Projects may include:
 * Assimilating colonies
 * Assimilating stolen technologies
 * Adapting to enemy technologies
-* Improving weapons and shields
+* Improving weapons and shields (Same cost as the other races: Weapons[4,6,8,10], Shields[6,8,10,12])
 
 Progress on projects is retained between turns.
 
@@ -118,7 +118,7 @@ Borg Cube follows the normal Borg rules for combat (increasing shield values eve
 
 Invasions are handled like normal (destroying nodes, razing completeley or overwhelming) depending on combat outcome.
 
-If Multiple Cubes in the same system, they can fight one after the other if attacked, or if they have not battled previously in the Borg turn.
+If Multiple Cubes in the same system, they can fight one after the other if attacked, or if they have not battled previously in the Borg turn. (The next cube starts fighting at the same shield value as the previously defeated cube had)
 
 ---
 
