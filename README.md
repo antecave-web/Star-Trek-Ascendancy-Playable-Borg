@@ -34,6 +34,8 @@ Goals:
 
 The Borg always acts last in the turn order
 
+Since assimilated Borg planets cannot be conquered, the other players can win by ascendancy or special objectives only.
+
 ---
 # Economy
 
