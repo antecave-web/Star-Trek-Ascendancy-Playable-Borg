@@ -98,6 +98,10 @@ Progress toward Cube construction is retained between turns.
 Each Borg Cube can be activated once per turn, granting it one move and one attack. These can be executed in **any** order.
 A Borg Cube may spend 1 resource per additional system to move beyond its normal movement allowance of warp 1. This movement may **not** pass through neutral or enemy inhabited systems(**including pre-warp**) or a system or sector containing enemy ships.
 
+Borg starting shield value and weapon to-hit-number can be upgraded like for all the other races.
+
+Borg Cube follows the normal Borg rules for combat (increasing shield values every round, ignoring shields, etc.)
+
 ---
 
 # Disabled Cubes
