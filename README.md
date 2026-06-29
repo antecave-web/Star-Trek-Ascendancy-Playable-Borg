@@ -50,6 +50,7 @@ Projects may include:
 * Assimilating colonies
 * Assimilating stolen technologies
 * Adapting to enemy technologies
+* Improving weapons and shields
 
 Progress on projects is retained between turns.
 
