@@ -2,6 +2,8 @@
 
 ## Design Philosophy
 
+This redesign intentionally does not attempt to simulate every aspect of Borg lore. Instead, it seeks to capture the strategic experience of commanding the Collective while preserving as much of the core Star Trek: Ascendancy ruleset as possible.
+
 The Borg are not an explosive faction. They are slow, relentless, and inevitable.
 
 Unlike other civilizations, the Borg do not rely on rapid expansion or large fleets. Instead, they gradually assimilate civilizations, steal technology, adapt to enemy tactics, and slowly increase the power of the Collective.
@@ -101,12 +103,16 @@ Cube #5 costs 30.
 
 # Cube Movement & Combat
 
-Each Borg Cube can be activated once per turn, granting it one move and one attack. These can be executed in **any** order.
+Each Borg Cube can be activated once per turn, granting it one move and one attack(space battle or invasion). These can be executed in **any** order.
 A Borg Cube may spend 1 resource per additional system to move beyond its normal movement allowance of warp 1. This movement may **not** pass through neutral or enemy inhabited systems(**including pre-warp**) or a system or sector containing enemy ships.
 
 Borg starting shield value and weapon to-hit-number can be upgraded like for all the other races.
 
 Borg Cube follows the normal Borg rules for combat (increasing shield values every round, ignoring shields, etc.)
+
+Invasions are handled like normal (destroying nodes, razing completeley or overwhelming) depending on combat outcome.
+
+If Multiple Cubes in the same system, they can fight one after the other if attacked, or if they have not battled previously in the Borg turn.
 
 ---
 
@@ -137,7 +143,7 @@ Until then, it remains completely inactive.
 
 # Technology Assimilation
 
-Whenever the Borg win a battle against another civilization, they may steal one technology card from that civilization.
+Whenever the Borg win a space battle or invasion against another civilization, they may steal one technology card from that civilization.
 
 The Borg may only have **one technology currently being assimilated from each opposing civilization**.
 
@@ -155,7 +161,7 @@ Enemy players continue to receive Borg technology cards after defeating a Cube a
 
 The Borg may also begin adapting against enemy technologies.
 
-After participating in a battle, the Borg may allocate resources toward adapting to technologies in use by the opposing force in that battle (I.e. No adapting to ship-exclusive technologies during invasions and vice-versa). No adaptation may be performed on turns in which the Borg did not battle.
+After participating in a battle, the Borg may allocate resources toward adapting to technologies that affected the outcome of that battle (I.e. No adapting to ship-exclusive technologies during invasions and vice-versa). No adaptation may be performed on turns in which the Borg did not battle.
 
 For each completed enemy technology, the Borg may invest resources into adaptation.
 
