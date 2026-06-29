@@ -91,7 +91,7 @@ Otherwise the colony functions as normal. (1-4 power depending on node count, ge
 
 Additional Borg Cubes are constructed at a Borg colony by slowly allocating resources over multiple turns where progress toward Cube construction is retained.
 
-Place a new cube at any Borg colony (even one that is currently blockaded by enemy ship) adding a minimum of one resource to it to start the construction. (use a token to indicate that it is under construction)
+Place a new cube on top of any Borg colony (even one that is currently blockaded by enemy ship) adding a minimum of one resource to it to start the construction.
 
 Only one cube may be in construction at a time.
 
@@ -104,6 +104,8 @@ Cube #3 costs 18.
 Cube #4 costs 24.
 
 Cube #5 costs 30.
+
+Cubes under construction cannot act or be attacked, but they do add 1 to the strength of the colony during invasions for the duration of construction. When enough resources has been allocated to match the cost, remove the cube from the colony and place it in the system.
 
 ---
 
