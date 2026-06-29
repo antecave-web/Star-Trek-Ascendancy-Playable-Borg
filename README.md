@@ -89,7 +89,13 @@ Cube construction uses escalating costs, making each additional Cube a significa
 
 Progress toward Cube construction is retained between turns.
 
-(The exact costs and maximum number of Cubes remain to be determined.)
+Cube #2 costs 12.
+
+Cube #3 costs 18.
+
+Cube #4 costs 24.
+
+Cube #5 costs 30.
 
 ---
 
