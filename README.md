@@ -27,21 +27,22 @@ Goals:
   * 1 Borg home system
   * 3 Borg resource nodes
   * 1 Borg Cube
-* The Borg use only **one generic resource type**, which is used for all purposes.
 
 ---
 # General
 
-The Borg always acts last in the turn order
+Use the official rules unless contradicted by any of the rules in this document.
 
-Since assimilated Borg planets cannot be conquered, the other players can win by ascendancy or special objectives only.
+The Borg always acts last in the turn order.
+
+The Borg use only **one generic resource type**, which is used for all purposes.
+
+Assimilated Borg planets cannot be captured, therefore the other players can win by ascendancy or special objectives only.
 
 ---
 # Economy
 
-The Borg cannot store resources.
-
-At the end of every turn, all unallocated resources are lost.
+The Borg do not store resources. At the end of every turn, all unallocated resources are lost.
 
 Instead, resources are continuously allocated toward ongoing projects.
 
@@ -69,30 +70,32 @@ They may only establish Borg colonies on:
 
 Pre-warp civilizations may not be assimilated.
 
-Assimilation is gradual.
+Assimilation progress is gradual. After a successful invasion:
 
-* Spend 1 resource to assimilate the colony.
-* Spend 1 additional resource for each resource node on the planet (maximum 3).
-* Normally only one point of progress may be added to a colony each turn.
+* Unless overwhelmed, you must spend 1 resource to establish the Borg colony.
+* On successive turns, spend 1 additional resource to add a resource node on the planet (maximum 3).
+* Only one point of progress may be added to each colony per turn.
 
-Once complete:
+Once a colony is established:
 
 * The planet permanently becomes a Borg colony.
 * Borg colonies can never change ownership.
 
-Enemy players may destroy Borg resource nodes through bombardment or invasion, but may never reclaim the planet itself.
+Enemy players may destroy Borg resource nodes through bombardment or invasion, but may never destroy the colony or reclaim the planet itself.
 
-Destroyed nodes deny the Borg resources until they are rebuilt.
+Otherwise the colony functions as normal. (1-4 power depending on node count, generating 1 resource per node)
 
 ---
 
 # Cube Construction
 
-Additional Borg Cubes are constructed slowly by allocating resources over multiple turns.
+Additional Borg Cubes are constructed at a Borg colony by slowly allocating resources over multiple turns where progress toward Cube construction is retained.
+
+Place a new cube at any Borg colony (even one that is currently blockaded by enemy ship) adding a minimum of one resource to it to start the construction. (use a token to indicate that it is under construction)
+
+Only one cube may be in construction at a time.
 
 Cube construction uses escalating costs, making each additional Cube a significant long-term investment.
-
-Progress toward Cube construction is retained between turns.
 
 Cube #2 costs 12.
 
