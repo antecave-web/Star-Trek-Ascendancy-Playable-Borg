@@ -4,7 +4,7 @@
 
 This redesign intentionally does not attempt to simulate every aspect of Borg lore. Instead, it seeks to capture the strategic experience of commanding the Collective while preserving as much of the core Star Trek: Ascendancy ruleset as possible.
 
-The Borg are not an explosive faction. They are slow, relentless, and inevitable.
+The Borg are slow, relentless and calculating.
 
 Unlike other civilizations, the Borg do not rely on rapid expansion or large fleets. Instead, they gradually assimilate civilizations, steal technology, adapt to enemy tactics, and slowly increase the power of the Collective.
 
@@ -15,7 +15,7 @@ Goals:
 * Preserve the core Ascendancy rules wherever possible.
 * Make the Borg feel relentless rather than explosive.
 * Replace bookkeeping with long-term strategic commitments.
-* Encourage interaction through technology theft instead of internal research.
+* Encourage interaction through technology theft instead of research.
 * Reward containment rather than reversal.
 
 ---
