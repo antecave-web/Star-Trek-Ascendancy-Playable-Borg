@@ -93,6 +93,13 @@ Progress toward Cube construction is retained between turns.
 
 ---
 
+# Cube Movement & Combat
+
+Each Borg Cube can be activated once per turn, granting it one move and one attack. These can be executed in **any** order.
+A Borg Cube may spend 1 resource per additional system to move beyond its normal movement allowance of warp 1. This movement may **not** pass through neutral or enemy inhabited systems(**including pre-warp**) or a system or sector containing enemy ships.
+
+---
+
 # Disabled Cubes
 
 Borg Cubes are never destroyed.
@@ -138,12 +145,14 @@ Enemy players continue to receive Borg technology cards after defeating a Cube a
 
 The Borg may also begin adapting against enemy technologies.
 
+After participating in a battle, the Borg may allocate resources toward adapting to technologies in use by the opposing force in that battle (I.e. No adapting to ship-exclusive technologies during invasions and vice-versa). No adaptation may be performed on turns in which the Borg did not battle.
+
 For each completed enemy technology, the Borg may invest resources into adaptation.
 
 Once adaptation investment equals that technology's research cost:
 
 * that technology no longer functions **against the Borg**
-* it functions normally against every other civilization
+* it still functions normally against every other civilization
 
 Adaptation progress is retained between turns.
 
