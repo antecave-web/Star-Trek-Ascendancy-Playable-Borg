@@ -116,9 +116,9 @@ A Borg Cube may spend 1 resource per additional system to move beyond its normal
 
 Borg starting shield value and weapon to-hit-number can be upgraded like for all the other races.
 
-Borg Cube follows the normal Borg rules for combat (increasing shield values every round, ignoring shields, etc.)
+Borg Cube follows the normal Borg rules for combat (Enemies get First strike, increasing shield values every round, ignoring shields, etc.), with the exception that Borg weapon strengt and starting shield value is based on number of upgrades.
 
-Invasions are handled like normal (destroying nodes, razing completeley or overwhelming) depending on combat outcome.
+Invasions are handled like normal (destroying nodes, razing completeley or overwhelming) depending on combat outcome, **only overwhelming** victory can result in assimilating the colony.
 
 If Multiple Cubes in the same system, they can fight one after the other if attacked, or if they have not battled previously in the Borg turn. (The next cube starts fighting at the same shield value as the previously defeated cube had)
 
@@ -142,9 +142,7 @@ Disabled Cubes automatically repair **1 damage** at start of each Borg turn.
 
 The Borg may spend up to **2 additional resources** each turn repairing a Disabled Cube.
 
-A Cube only becomes operational once **all damage has been repaired**.
-
-Until then, it remains completely inactive.
+A Cube only becomes operational once **all damage has been repaired**, at which point it instantly becomes fully operational.
 
 ---
 
