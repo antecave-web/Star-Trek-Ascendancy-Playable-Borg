@@ -219,7 +219,7 @@ Any effect that would destroy all ships in system or a whole fleet instead deals
 
 ---
 
-**Resistance**
+#Resistance
 
 When a starting homeworld is assimilated, that civilization immediately follows the normal Resistance rules from the Dominion War expansion. The Borg may no longer initiate attacks against that civilization.
 Since the conquered player can never recover their home world, they are stuck as a resistance for the rest of the game. Ignore any effects of resistance cards that would liberate the home world.
