@@ -4,7 +4,7 @@
 
 This redesign intentionally does not attempt to simulate every aspect of Borg lore. Instead, it seeks to capture the strategic experience of commanding the Collective while preserving as much of the core Star Trek: Ascendancy ruleset as possible.
 
-The Borg are slow, relentless and calculating.
+The Borg are slow, relentless and adaptive.
 
 Unlike other civilizations, the Borg do not rely on rapid expansion or large fleets. Instead, they gradually assimilate civilizations, steal technology, adapt to enemy tactics, and slowly increase the power of the Collective.
 
@@ -51,9 +51,9 @@ Projects may include:
 * Constructing Cubes
 * Repairing disabled Cubes
 * Assimilating colonies
+* Improving weapons and shields (Same cost as the other races: Weapons[4,6,8,10], Shields[6,8,10,12])
 * Assimilating stolen technologies
 * Adapting to enemy technologies
-* Improving weapons and shields (Same cost as the other races: Weapons[4,6,8,10], Shields[6,8,10,12])
 
 Progress on projects is retained between turns.
 
@@ -91,7 +91,7 @@ Otherwise the colony functions as normal. (1-4 power depending on node count, ge
 
 Additional Borg Cubes are constructed at a Borg colony by slowly allocating resources over multiple turns where progress toward Cube construction is retained.
 
-Place a new cube on top of any Borg colony (even one that is currently blockaded by enemy ship) adding a minimum of one resource to it to start the construction.
+To begin constructing a Cube, place an unused Cube miniature on any Borg colony (even one that is currently blockaded by enemy ship) and immediately allocate at least 1 resource toward its construction.
 
 Only one cube may be in construction at a time.
 
@@ -216,6 +216,13 @@ The encounter may later be resolved normally by another civilization.
 
 Any encounter effect that would destroy a ship instead deals 1 damage to a Cube.
 Any effect that would destroy all ships in system or a whole fleet instead deals 9 damage to a Cube.
+
+---
+
+**Resistance**
+
+When a starting homeworld is assimilated, that civilization immediately follows the normal Resistance rules from the Dominion War expansion. The Borg may no longer initiate attacks against that civilization.
+Since the conquered player can never recover their home world, they are stuck as a resistance for the rest of the game. Ignore any effects of resistance cards that would liberate the home world.
 
 ---
 
