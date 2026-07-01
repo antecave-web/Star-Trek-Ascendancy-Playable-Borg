@@ -1,4 +1,4 @@
-# Star Trek: Ascendancy – Playable Borg (Draft Rules)
+# Star Trek: Ascendancy – Playable Borg v 1.0
 
 ## Design Philosophy
 
